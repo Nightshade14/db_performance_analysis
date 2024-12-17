@@ -1,3 +1,8 @@
+# Identification Information
+- Name: Satyam Chatrola
+- NYU NetId: sc10247
+- Mini Project Option: 2
+
 # Database Performance Analysis
 
 ## Dataset
