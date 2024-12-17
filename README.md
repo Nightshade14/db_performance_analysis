@@ -54,3 +54,9 @@
     - We can directly narrow down to the specific ids due to the indices created.
 - We can see that to find the specific id, we took `0.0185 ms`.
 - The whole query took 17.1 ms. This whole query execution time is a liitle more than the half of the time it took to scan the customers table in the approach without indices.
+
+
+## Submission Link
+[Principles of Database Systems mini-project demo](https://drive.google.com/drive/folders/1ktuDNGAbvA9FAj15pzXn7wy0DmsZZXcg?usp=sharing)
+
+[Project GitHub Link](https://github.com/Nightshade14/db_performance_analysis)
