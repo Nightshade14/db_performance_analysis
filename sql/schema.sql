@@ -1,8 +1,6 @@
 -- Create the database
 DROP DATABASE IF EXISTS olist_db;
-
 CREATE DATABASE olist_db;
-
 USE olist_db;
 
 -- Create tables
